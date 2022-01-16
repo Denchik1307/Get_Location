@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Get Location</string>
+    <string name="my_location">My Location</string>
+    <string name="share">Share</string>
+    <string name="on_map">On map</string>
+    <string name="map_key" translatable="false">AIzaSyB3w0rhNO7ulmPILBAvb9F8XKw9dRedgR8</string>
+</resources>
